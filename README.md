@@ -13,9 +13,9 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/github/followers/yuzuu21?style=flat-square&color=19caca&labelColor=0d1117&logo=github" />
-  <img src="https://img.shields.io/github/stars/yuzuu21?style=flat-square&color=19caca&labelColor=0d1117&logo=github&label=total%20stars" />
-  <img src="https://komarev.com/ghpvc/?username=yuzuu21&style=flat-square&color=19caca&label=visitors" />
+  <img src="https://img.shields.io/github/followers/yuzu-n1?style=flat-square&color=19caca&labelColor=0d1117&logo=github" />
+  <img src="https://img.shields.io/github/stars/yuzu-n1?style=flat-square&color=19caca&labelColor=0d1117&logo=github&label=total%20stars" />
+  <img src="https://komarev.com/ghpvc/?username=yuzu-n1&style=flat-square&color=19caca&label=visitors" />
 </p>
 
 ---
