@@ -58,7 +58,7 @@ Building whatever comes to mind
 ## GitHub Stats
 
 <p align="center">
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=yuzuu21&theme=tokyonight&hide_border=true&background=0d1117&ring=19caca&fire=19caca&currStreakLabel=19caca" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=yuzu-n1&theme=tokyonight&hide_border=true&background=0d1117&ring=19caca&fire=19caca&currStreakLabel=19caca" />
 </p>
 
 ---
@@ -66,7 +66,7 @@ Building whatever comes to mind
 ## Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yuzuu21&bg_color=0d1117&color=19caca&line=19caca&point=ffffff&area=true&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yuzu-n1&bg_color=0d1117&color=19caca&line=19caca&point=ffffff&area=true&hide_border=true" />
 </p>
 
 ---
@@ -75,7 +75,7 @@ Building whatever comes to mind
 
 <p align="center">
   <a href="https://discord.gg/8N53RAj5tP"><img src="https://tr7zw.github.io/uikit/social_buttons_icon/Discord-Button-64.png"></a>
-  <a href="https://github.com/yuzuu21"><img src="https://tr7zw.github.io/uikit/social_buttons_icon/Github-Button-64.png"></a>
+  <a href="https://github.com/yuzu-n1"><img src="https://tr7zw.github.io/uikit/social_buttons_icon/Github-Button-64.png"></a>
 </p>
 
 ---
