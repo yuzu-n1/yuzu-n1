@@ -26,7 +26,7 @@
 <samp>
 Minecraft Developer (PvP / Custom servers)<br>
 Plugin & Fabric Mod Developer<br>
-Cheat Client Developer<br>
+Utility Client Developer<br>
 Building whatever comes to mind
 </samp>
 </p>
