@@ -49,7 +49,7 @@ Building whatever comes to mind
 |:---:|:---:|
 | Java / Kotlin | <img src="https://skillicons.dev/icons?i=java,kotlin&theme=dark" width="60"/> |
 | HTML / CSS / JavaScript / TypeScript | <img src="https://skillicons.dev/icons?i=html,css,js,ts&theme=dark" width="80"/> |
-| C++ | <img src="https://skillicons.dev/icons?i=c++&theme=dark" width="40"/> |
+| C++ | <img src="https://skillicons.dev/icons?i=cpp&theme=dark" width="40"/> |
 
 </div>
 
